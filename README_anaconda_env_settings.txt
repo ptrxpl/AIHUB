@@ -1,0 +1,64 @@
+(mgr) D:\MAGISTERKA\mgr\>conda env export
+name: mgr
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=he774522_0
+  - ca-certificates=2022.07.19=haa95532_0
+  - certifi=2022.6.15=py310haa95532_0
+  - libffi=3.4.2=hd77b12b_4
+  - openssl=1.1.1q=h2bbff1b_0
+  - pip=22.1.2=py310haa95532_0
+  - python=3.10.4=hbb2ffb3_0
+  - setuptools=63.4.1=py310haa95532_0
+  - sqlite=3.39.2=h2bbff1b_0
+  - tk=8.6.12=h2bbff1b_0
+  - tzdata=2022c=h04d1e81_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py310haa95532_2
+  - xz=5.2.5=h8cc25b3_1
+  - zlib=1.2.12=h8cc25b3_3
+  - pip:
+    - altgraph==0.17.3
+    - args==0.1.0
+    - auto-py-to-exe==2.28.0
+    - bottle==0.12.23
+    - bottle-websocket==0.2.9
+    - cffi==1.15.1
+    - charset-normalizer==2.1.1
+    - click==8.1.3
+    - clint==0.5.1
+    - colorama==0.4.5
+    - eel==0.14.0
+    - flask==2.2.2
+    - future==0.18.3
+    - gevent==22.10.2
+    - gevent-websocket==0.10.1
+    - greenlet==2.0.2
+    - idna==3.4
+    - itsdangerous==2.1.2
+    - jinja2==3.1.2
+    - markupsafe==2.1.1
+    - marshmallow==3.17.1
+    - packaging==21.3
+    - pathlib2==2.3.7.post1
+    - pefile==2022.5.30
+    - pycparser==2.21
+    - pyinstaller==5.7.0
+    - pyinstaller-hooks-contrib==2022.15
+    - pyparsing==3.0.9
+    - python-dotenv==0.21.0
+    - pywin32-ctypes==0.2.0
+    - requests==2.28.1
+    - requests-toolbelt==0.10.1
+    - six==1.16.0
+    - tqdm==4.64.1
+    - urllib3==1.26.12
+    - websockets==10.4
+    - werkzeug==2.2.2
+    - whichcraft==0.6.1
+    - zope-event==4.6
+    - zope-interface==5.5.2
+prefix: D:\Anaconda\envs\mgr

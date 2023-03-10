@@ -1,0 +1,3 @@
+pyinstaller --noconfirm --onefile --add-data "C:/Users/extez/Desktop/aihub/client/aihub;aihub/" --hidden-import "json" --hidden-import "marshmallow" --add-data "C:/Users/extez/Desktop/aihub/client/constants.py;." --add-data "C:/Users/extez/Desktop/aihub/client/log.py;." --hidden-import "requests" --hidden-import "pathlib2" --hidden-import "websockets"  "C:/Users/extez/Desktop/aihub/client/client.py"
+
+built EXE file should be in /dist folder

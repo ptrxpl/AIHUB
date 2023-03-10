@@ -1,0 +1,9 @@
+AIHUB total "python.exe -u long_running.py" output in project: proj1702_8fa5b91f-7d42-4e94-9df4-d4fa8953a64b
+Started at (timestamp): 18.02.2023 01:04:00
+Current x iteration: 1 / 2
+Going to sleep for 5 seconds...
+I'm awake!
+Current x iteration: 2 / 2
+Going to sleep for 5 seconds...
+I'm awake!
+Program took: 10.022966146469116 seconds
